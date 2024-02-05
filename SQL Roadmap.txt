@@ -1,0 +1,36 @@
+𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝘁𝗵𝗲 𝗕𝗮𝘀𝗶𝗰𝘀
+- Relational database pros and constraints
+- Explore DDL and DML
+
+𝗠𝗮𝘀𝘁𝗲𝗿𝗶𝗻𝗴 𝘁𝗵𝗲 𝗦𝘆𝗻𝘁𝗮𝘅
+- SQL keywords
+- Data types and operators
+- Understand CRUD (SELECT, INSERT, UPDATE, DELETE)
+
+𝗘𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 𝗤𝘂𝗲𝗿𝗶𝗲𝘀 𝗮𝗻𝗱 𝗖𝗼𝗻𝘀𝘁𝗿𝗮𝗶𝗻𝘁𝘀
+- Aggregate queries
+- JOINS
+- Constraints e.g. Primary, foreign, unique key, not null and check
+
+𝗗𝗶𝘃𝗶𝗻𝗴 𝗶𝗻𝘁𝗼 𝗦𝘂𝗯𝗾𝘂𝗲𝗿𝗶𝗲𝘀 𝗮𝗻𝗱 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝘀
+- Types of subqueries
+- SQL functions
+
+𝗗𝗲𝗹𝘃𝗶𝗻𝗴 𝗶𝗻𝘁𝗼 𝗗𝗮𝘁𝗲 𝗮𝗻𝗱 𝗧𝗶𝗺𝗲 𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝘀
+- DATE functions
+- TIME functions
+
+𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗠𝗮𝗻𝗮𝗴𝗶𝗻𝗴 𝗩𝗶𝗲𝘄𝘀
+- Create views
+- Modifying views
+- Dropping views
+
+𝗠𝗮𝗻𝗮𝗴𝗶𝗻𝗴 𝗜𝗻𝗱𝗲𝘅𝗲𝘀 𝗮𝗻𝗱 𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻𝘀
+- Understand indexes
+- BEGIN, COMMIT, ROLLBACK
+- Learn GRANT and REVOKE commands
+
+𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀
+- Learn query optimization techniques
+- Learn how to reduce subquery
+- Select necessary data
